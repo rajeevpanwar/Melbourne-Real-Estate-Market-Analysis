@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ## Real Estate Hunting - Down Under by Rajeev Panwar 
 
 # Project Overview & Business Case
@@ -52,5 +50,3 @@ I recommend...
 <<<<<<< HEAD
 *  
 =======
-*  
->>>>>>> cb2a9bbbd31b7aa00bf57eb910137378b5867e44
