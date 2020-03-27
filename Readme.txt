@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 ## Real Estate Hunting - Down Under by Rajeev Panwar 
 
 # Project Overview & Business Case
@@ -9,6 +11,19 @@ Scenario: You are an expat planning to move to Melbourne and need to which regio
 
 # Solution Engineering 
 
+=======
+## Real Estate Hunting - Down Under by Rajeev Panwar 
+
+# Project Overview & Business Case
+
+Scenario: You are an expat planning to move to Melbourne and need to which region might be a good market to look for housing? Your turn to your friend who is an aspiring data scientist to answer some basic question about the Melbourne real estate market. The friend (i.e. I) decided to answer the following questions:
+
+*  What is a realistic budget range for a 2nd or 3rd quartile buyer?
+*  What factors correlate the most with price and could be used to predict future price of housing in Melbourne? Which variables are most likely (distance from downtown, size of dwelling unit, age of property etc.) to influence your choice? 
+
+# Solution Engineering 
+
+>>>>>>> cb2a9bbbd31b7aa00bf57eb910137378b5867e44
 Our process had 4 parts:
 *  use a suitable dataset from Kaggle that covers almost 2 years of pricing data for Melbourne and its surrounding regions (Suburbs that combine to form the Melbourne Metropitian Area so to say) - I used https://www.kaggle.com/anthonypino/melbourne-housing-market 
 * Cleaning and analyzing the data
@@ -43,4 +58,8 @@ On best fit model to predict price - 2nd degree Polynomial with all features
 # Recommendations
 
 I recommend...
+<<<<<<< HEAD
 *  
+=======
+*  
+>>>>>>> cb2a9bbbd31b7aa00bf57eb910137378b5867e44
