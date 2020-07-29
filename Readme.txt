@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+## Module 2 Project at Flatiron 
 
 ## Real Estate Hunting - Down Under by Rajeev Panwar 
 
