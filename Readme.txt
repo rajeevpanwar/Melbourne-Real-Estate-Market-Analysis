@@ -18,6 +18,8 @@ Scenario: You are an expat planning to move to Melbourne and need to which regio
 
 ![](http://localhost:8888/view/Melbourne_Real_Estate_Market_Analysis/Untitled%20Folder/more_eda_2.png)
 
+![]
+
 
 # Solution Engineering 
 
