@@ -2,12 +2,22 @@
 
 ## Real Estate Hunting - Down Under by Rajeev Panwar 
 
+## Presentation - [http://localhost:8888/edit/Melbourne_Real_Estate_Market_Analysis/Realestate.pptx]
+
 # Project Overview & Business Case
 
 Scenario: You are an expat planning to move to Melbourne and need to which region might be a good market to look for housing? Your turn to your friend who is an aspiring data scientist to answer some basic question about the Melbourne real estate market. The friend (i.e. I) decided to answer the following questions:
 
 *  What is a realistic budget range for a particular region?
 *  What factors correlate the most with price and could be used to predict future price of housing in Melbourne? Which variables are most likely (distance from downtown, size of dwelling unit, age of property etc.) to influence your choice? 
+
+![](http://localhost:8888/view/Melbourne_Real_Estate_Market_Analysis/Untitled%20Folder/more_eda_2.png)
+
+
+![](http://localhost:8888/view/Melbourne_Real_Estate_Market_Analysis/Untitled%20Folder/more_eda_one.png)
+
+![](http://localhost:8888/view/Melbourne_Real_Estate_Market_Analysis/Untitled%20Folder/more_eda_2.png)
+
 
 # Solution Engineering 
 
